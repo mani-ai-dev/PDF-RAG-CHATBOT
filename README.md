@@ -2,7 +2,7 @@
 
 > Ask questions about any PDF using natural language — powered by LangChain, FAISS, Groq (LLaMA 3), and Gradio.
 
-![Chatbot Demo](https://github.com/mani-ai-dev/pdf-RAG-chatbot/blob/abcdef1234567890/Notebook/images/demo.png?raw=true)
+![Chatbot Demo](https://github.com/mani-ai-dev/PDF-RAG-CHATBOT/blob/d21d6bd934cf3d32a9e77e5013fe3e25935f42b3/Output-Images/chatbot.png)
 
 ---
 
